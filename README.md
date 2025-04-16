@@ -3,9 +3,14 @@
  ## Gráfico de dispersão e de barras com legenda e dois eixos em python
  
 
-<img aligh= "center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE">
+    <img alt="NPM License" src="https://img.shields.io/npm/l/react?style=for-the-badge"/>
+  </a>
+  <img alt="Jupyter Logo" src="https://jupyter.org/assets/homepage/main-logo.svg" width="60"/>
+</p>
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 #### Esse código cria um gráfico com:
 
